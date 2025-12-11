@@ -1,3 +1,18 @@
+<div align="center">
+
+<h2> 👋 What’s up, fellow <script>Hustlers</script>! </h2>
+
+</div>
+
+<div align="center">
+
+Welcome to my GitHub profile, glad to have you here! <br>
+Feel free to dive into my projects, fork repositories, open issues, or drop PRs if you’ve got ideas to make things even better. <br>
+
+<i>Happy building!</i> 🚀
+
+</div>
+
 # 💫 Myself Aadarsh:
 🧑‍💻 Founder of Project Xpress (Development Agency)<br>🚀 Passionate about building innovative tech solutions & solving real-world problems<br>🎓 Pursuing B.Tech in CSE w/s Cybersecurity at SRM–KTR<br>🤖 Actively learning & working on AI, Machine Learning, and Generative AI projects<br>💻 Sharpening my skills in DSA, Cybersecurity, and Full Stack Development<br>🤝 Open to collaboration, open-source contributions, and exciting tech discussions<br> 📩 Reach out to me at: aadarshjaiswal640@gmail.com
 
