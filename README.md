@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Myself Aadarsh:
 🧑‍💻 Founder of Project Xpress (Development Agency)<br>🚀 Passionate about building innovative tech solutions & solving real-world problems<br>🎓 Pursuing B.Tech in CSE w/s Cybersecurity at SRM–KTR<br>🤖 Actively learning & working on AI, Machine Learning, and Generative AI projects<br>💻 Sharpening my skills in DSA, Cybersecurity, and Full Stack Development<br>🤝 Open to collaboration, open-source contributions, and exciting tech discussions<br> 📩 Reach out to me at: aadarshjaiswal640@gmail.com
 
 
