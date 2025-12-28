@@ -14,7 +14,7 @@ Feel free to dive into my projects, fork repositories, open issues, or drop PRs 
 </div>
 
 # 💫 Myself Aadarsh:
-🧑‍💻 Founder of Project Xpress (Development Agency)<br>🚀 Passionate about building innovative tech solutions & solving real-world problems<br>🎓 Pursuing B.Tech in CSE w/s Cybersecurity at SRM–KTR<br>🤖 Actively learning & working on AI, Machine Learning, and Generative AI projects<br>🤝 Open to collaboration, open-source contributions, and exciting tech discussions<br>💼 Visit my Portfolio: www.aadarshjaiswal.online<br> 📩 Reach out to me at: aadarshjaiswal640@gmail.com
+🧑‍💻 Founder of Project Xpress (Development Agency)<br>🚀 Passionate about building innovative tech solutions & solving real-world problems<br>🎓 Pursuing B.Tech in CSE w/s Cybersecurity at SRM–KTR<br>🤖 Actively learning & working on AI, Machine Learning, and Generative AI projects<br>🤝 Open to collaboration, open-source contributions, and exciting tech discussions<br>💼 Checkout my Portfolio: www.aadarshjaiswal.online<br> 📩 Reach out to me at: aadarshjaiswal640@gmail.com
 
 
 # 💻 Tech Stack:
